@@ -10,6 +10,7 @@ lives in a separate, private repository.
 
 | Session | Notebook | Open |
 |---|---|---|
+| 1 | Hello, Claude — API key setup and your first call | [Open in Colab](https://colab.research.google.com/github/dimitriparadise/isom-260-notebooks/blob/main/session-01/ISOM260_Session1_Hello_Claude.ipynb) |
 | 3 | API Workshop — your first AI application | [Open in Colab](https://colab.research.google.com/github/dimitriparadise/isom-260-notebooks/blob/main/session-03/ISOM260_Session3_API_Workshop.ipynb) |
 | 4 | Build Your First Agent (Claude) | [Open in Colab](https://colab.research.google.com/github/dimitriparadise/isom-260-notebooks/blob/main/session-04/ISOM260_Session4_Build_Your_First_Agent.ipynb) |
 | 4 | Build Your First Agent (Gemini) | [Open in Colab](https://colab.research.google.com/github/dimitriparadise/isom-260-notebooks/blob/main/session-04/ISOM260_Session4_Build_Your_First_Agent_Gemini.ipynb) |
